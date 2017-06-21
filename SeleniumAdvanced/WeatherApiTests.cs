@@ -236,6 +236,7 @@ namespace SeleniumAdvanced
         }
 
 
+
         public class Result
         {
             public string country { get; set; }
