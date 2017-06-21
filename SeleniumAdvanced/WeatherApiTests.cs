@@ -235,8 +235,6 @@ namespace SeleniumAdvanced
             public List<object> regionalBlocs { get; set; }
         }
 
-
-
         public class Result
         {
             public string country { get; set; }
